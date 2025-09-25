@@ -1,15 +1,119 @@
-### Prompt para generar diseño de pantalla
+¡Excelente! Este es el paso lógico y perfecto. Después de definir el sistema de diseño, nos enfocamos en aplicar esa lógica a una pantalla específica y crucial. El perfil del guía es, sin duda, una de las pantallas más importantes para construir la confianza que SubLegados Tours necesita para triunfar.
 
-Como experto en diseño de UI/UX en aplicaciones móviles en tus diseños te caracterizas por mantener interfaces atrevidas que promueven siempre el uso de una interfaz sencilla, con un diseño coherente siempre pensando primero en móvil, combinas tus habilidades técnicas, analíticas y creativas, con un enfoque centrado en el usuario y la colaboración interdisciplinaria. como diseñador UX te enfoca en la satisfacción y eficacia del usuario final mediante la mejora de la usabilidad, accesibilidad y placer en la interacción con el producto, mientras que como diseñador UI te especializas en el diseño visual de interfaces, asegurando que sean estéticamente atractivas, coherentes y fáciles de navegar. 
+He completado tu "Prompt 5" utilizando toda la información y el contexto que hemos construido. El resultado es una instrucción clara y precisa, lista para ser usada en una herramienta de IA para diseño.
 
-Actualmente tienes la tarea de generar las indicaciones para crear una interfaz de usuario para la aplicación móvil `SubLegados Tours` utilizando una herramienta de IA como Stitch, Figma Make o UX Pilot.
+Prompt para generar diseño de pantalla
+Como experto en diseño de UI/UX en aplicaciones móviles, en tus diseños te caracterizas por mantener interfaces atrevidas que promueven siempre el uso de una interfaz sencilla, con un diseño coherente siempre pensando primero en móvil. Combinas tus habilidades técnicas, analíticas y creativas, con un enfoque centrado en el usuario y la colaboración interdisciplinaria. Como diseñador UX te enfocas en la satisfacción y eficacia del usuario final mediante la mejora de la usabilidad, accesibilidad y placer en la interacción con el producto, mientras que como diseñador UI te especializas en el diseño visual de interfaces, asegurando que sean estéticamente atractivas, coherentes y fáciles de navegar.
 
-El proceso para el cual vas a diseñar la interfaz es el siguiente: `El proceso de 'Visualización de Perfil de Guía'. Este proceso ocurre cuando un turista, después de realizar una búsqueda, selecciona a un guía específico de la lista de resultados para ver toda su información en detalle y decidir si es el adecuado para su tour.` 
+Actualmente tienes la tarea de generar las indicaciones para crear una interfaz de usuario para la aplicación móvil SubLegados Tours utilizando una herramienta de IA como Stitch, Figma Make o UX Pilot.
+
+El proceso para el cual vas a diseñar la interfaz es el siguiente: El proceso de 'Visualización de Perfil de Guía'. Este proceso ocurre cuando un turista, después de realizar una búsqueda, selecciona a un guía específico de la lista de resultados para ver toda su información en detalle y decidir si es el adecuado para su tour.
 
 Utilizando la siguiente descripción:
 
-`La pantalla de 'Perfil de Guía' es el núcleo de la decisión del turista. Su propósito es presentar de forma clara y confiable toda la información sobre un guía para que el usuario pueda evaluar su idoneidad y sentirse seguro para contactarlo. Debe combinar la información profesional del guía, como sus certificaciones y especialidades, con un toque personal que refleje su historia y la autenticidad de sus tours, además de incluir la validación social a través de las reseñas de otros viajeros.`
+La pantalla de 'Perfil de Guía' es el núcleo de la decisión del turista. Su propósito es presentar de forma clara y confiable toda la información sobre un guía para que el usuario pueda evaluar su idoneidad y sentirse seguro para contactarlo. Debe combinar la información profesional del guía, como sus certificaciones y especialidades, con un toque personal que refleje su historia y la autenticidad de sus tours, además de incluir la validación social a través de las reseñas de otros viajeros.
 
 Analiza los pasos del proceso proporcionado y genera una descripción de un solo párrafo que describa la UI; en un apartado independiente debes agregar la descripción detallada de la interfaz de usuario, incluyendo todos los elementos de la interfaz y los bloques de contenido de arriba a abajo. Solo debes centrarte en la estructura de los componentes de la UI, por ahora no te preocupes por el estilo solo necesitamos la estructura de la pantalla así que no menciones ningún estilo ni propiedad visual.
 
-Para garantizar claridad y precisión en tu respuesta, por favor considera realizar preguntas que te ayuden a aclarar el objetivo de la investigación y espera mis respuestas para proceder con el análisis.
+Respuesta Generada
+Descripción de la Interfaz de Usuario (UI)
+La interfaz para el perfil del guía está diseñada como una narrativa visual que busca generar confianza de manera progresiva. La pantalla se inicia con un fuerte impacto visual a través de una galería de imágenes que muestra al guía en su elemento, seguido inmediatamente por su identidad y credenciales clave para una validación rápida. A medida que el usuario se desplaza, la pantalla profundiza en la historia personal y las cualificaciones profesionales del guía, presenta de forma clara los tours que ofrece, y culmina con la prueba social a través de reseñas de otros viajeros, todo esto mientras un botón de acción principal permanece siempre accesible para facilitar el siguiente paso hacia la reserva.
+
+Estructura Detallada de la Interfaz (De arriba a abajo)
+Bloque de Navegación Superior:
+
+Componente: Barra de navegación.
+
+Elementos: Un botón de "Atrás" a la izquierda y un ícono de "Compartir" o "Guardar/Favorito" a la derecha.
+
+Bloque de Galería de Imágenes:
+
+Componente: Carrusel de imágenes a pantalla completa o un collage de imágenes destacadas.
+
+Contenido: Fotografías de alta calidad del guía durante sus tours, en los cenotes y mostrando su equipo.
+
+Bloque de Encabezado Principal:
+
+Componente: Contenedor de información principal.
+
+Elementos:
+
+Imagen de perfil del guía (Avatar).
+
+Texto con el nombre completo del guía.
+
+Texto secundario con su título o eslogan (Ej: "Explorador de Cenotes y Guía Certificado").
+
+Un indicador de "Guía Verificado".
+
+Bloque de Estadísticas Clave:
+
+Componente: Barra de métricas rápidas.
+
+Elementos:
+
+Ícono y texto para la calificación promedio (Ej: "4.9 Estrellas").
+
+Ícono y texto para el número de reseñas (Ej: "120 Opiniones").
+
+Ícono y texto para los años de experiencia (Ej: "8 Años de Experiencia").
+
+Bloque de Biografía ("Sobre Mí"):
+
+Componente: Sección de texto expandible.
+
+Elementos:
+
+Título de la sección (Ej: "Conoce a tu Guía").
+
+Párrafos de texto descriptivo sobre la historia del guía, su pasión por los cenotes y su filosofía.
+
+Un botón o enlace de "Leer más" si el texto es largo.
+
+Bloque de Certificaciones y Especialidades:
+
+Componente: Sección con una cuadrícula o lista de insignias (badges).
+
+Elementos:
+
+Título de la sección (Ej: "Mis Certificaciones").
+
+Una serie de insignias visuales con texto breve para cada certificación (Ej: "Buceo en Cueva", "Primeros Auxilios", "Guía de Naturaleza").
+
+Bloque de Tours Ofrecidos:
+
+Componente: Carrusel horizontal de tarjetas.
+
+Elementos:
+
+Título de la sección (Ej: "Tours que Ofrezco").
+
+Una lista de tarjetas interactivas. Cada tarjeta de tour debe contener: una imagen del tour, el nombre del tour, la duración y el precio.
+
+Bloque de Reseñas de Viajeros:
+
+Componente: Sección de lista de reseñas.
+
+Elementos:
+
+Título de la sección (Ej: "Lo que dicen otros viajeros").
+
+Resumen de calificaciones (barras de progreso para 5, 4, 3 estrellas, etc.).
+
+Una lista de tarjetas de reseñas individuales. Cada tarjeta debe contener: el nombre del viajero, su calificación, la fecha y el texto de la reseña.
+
+Un botón de "Mostrar todas las reseñas".
+
+Bloque de Acción Flotante (Sticky Footer):
+
+Componente: Barra inferior fija.
+
+Elementos: Un botón principal de llamada a la acción (Call to Action) con el texto "Ver Disponibilidad y Precios".
+
+Para garantizar claridad y precisión en tu respuesta, por favor considera realizar estas preguntas y espera mis respuestas para proceder con el análisis:
+
+Para la estructura de la pantalla, ¿qué elemento es más importante para generar confianza en un turista a primera vista: las certificaciones profesionales del guía o su historia personal y auténtica? Esto definirá si el bloque de "Certificaciones" debe ir antes o después del de "Sobre Mí".
+
+El objetivo final de esta pantalla es que el turista avance. ¿Cuál debería ser la acción principal y más visible en el botón flotante: "Ver Disponibilidad y Precios" (que llevaría a una vista de calendario) o un "Contactar al Guía" más general para hacer preguntas?
+
+¿Qué tan detallada debe ser la información de los tours en su sección? ¿Mostramos solo nombre e imagen para incitar a hacer clic, o incluimos también precio y duración para facilitar la comparación directamente en el perfil?

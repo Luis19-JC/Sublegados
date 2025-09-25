@@ -1,19 +1,31 @@
-### Prompt de obtención de procesos
+Prompt para la Definición de Funcionalidades y Propuesta de Valor (MVP)
+Rol y Contexto:
 
-Eres un Product Designer experto con amplia experiencia en desarrollo de productos de software y una sólida formación en diseño UX/UI. Tu función es facilitar `[la conexión directa y eficiente entre guías turísticos locales de la región de cenotes y los turistas que buscan experiencias auténticas, resolviendo la dificultad de los guías para darse a conocer y la de los turistas para encontrar opciones confiables]` mediante un proceso bien estructurado. Para lograr esto, necesito que generes una lista secuencial de los procesos principales que se alineen con este objetivo.
+Como Product Designer experto, y tras haber realizado un análisis competitivo de plataformas como Viator, ToursByLocals y GetYourGuide, ahora tienes una visión clara del mercado. Comprendes que la oportunidad para SubLegados Tours no está en competir en amplitud, sino en profundidad y especialización. Nuestra fortaleza es la conexión auténtica para la exploración de cenotes, empoderando a guías locales que actualmente carecen de herramientas efectivas.
 
-Por favor presenta la información en el siguiente formato estructurado:
+Has identificado que las áreas de oportunidad clave son: las altas comisiones de las plataformas masivas, la falta de especialización y la dificultad de los guías para destacar.
 
-1.  **Objetivo**: Define la meta principal de cada proceso.
-2.  **Descripción**: Proporciona una breve visión general de lo que implica cada proceso.
-3.  **Datos de entrada**: Enumera los datos de entrada requeridos para cada proceso.
-4.  **Resultado de salida**: Especifica el resultado esperado de cada proceso.
-5.  **Subprocesos**:
-    -   **Nombre**: Nombre del subproceso
-    -   **Objetivo**: Indica la meta del subproceso.
-    -   **Descripción**: Da una breve descripción del subproceso.
-    -   **Pasos**: Describe los pasos involucrados en el subproceso.
+Tarea Específica:
 
-Para garantizar claridad y precisión en tu respuesta, por favor considera realizar preguntas que te ayuden a aclarar el objetivo de la investigación y espera mis respuestas para proceder con el análisis.
+Tu tarea ahora es definir la propuesta de valor y las funcionalidades clave para el Producto Mínimo Viable (MVP) de la aplicación móvil de SubLegados Tours. El objetivo es diseñar una solución que resuelva directamente la problemática de conexión, sea altamente atractiva para los guías de cenotes y ofrezca una experiencia de usuario superior y de confianza para los turistas.
 
-Tu resultado final debe ser una lista completa, paso a paso, de procesos que sea fácil de entender e implementar, asegurando que apoyen de manera efectiva la gestión de voluntarios y la recopilación de datos de campo.
+Instrucciones:
+
+Despliega tu propuesta en dos secciones principales:
+
+1. Propuesta de Valor Diferenciada:
+En una lista de bullet points, define claramente los 3 o 4 pilares que harán única a la aplicación de SubLegados Tours. Para cada pilar, explica brevemente por qué es un diferenciador clave frente a la competencia. (Ej: "Hiper-especialización en Cenotes", "Comisiones Justas para Guías", "Certificación de Seguridad y Conocimiento").
+
+2. Tabla de Funcionalidades Clave (Features) para el MVP:
+Crea una tabla que detalle las funcionalidades esenciales para el lanzamiento inicial, separando la experiencia del Guía Turístico y la del Turista. La tabla debe incluir las siguientes columnas:
+
+Usuario: (Guía / Turista).
+
+Funcionalidad: (Ej: "Perfil del Guía Verificado", "Calendario de Disponibilidad Simple", "Búsqueda por Tipo de Cenote", "Chat Directo Pre-Reserva").
+
+Objetivo de la Funcionalidad: ¿Qué problema específico del usuario resuelve esta feature?
+
+Beneficios y Diferenciadores Clave: Describe cómo esta funcionalidad es mejor o está más adaptada a nuestro nicho que las soluciones genéricas de la competencia. Enfócate en la simplicidad, la confianza y la especialización.
+
+Consideración Final:
+Al seleccionar las funcionalidades para el MVP, prioriza aquellas que ofrezcan el máximo impacto con el mínimo esfuerzo de desarrollo, enfocándote en validar el modelo de negocio principal: conectar exitosamente a guías de cenotes con turistas apasionados.

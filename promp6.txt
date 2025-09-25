@@ -1,13 +1,90 @@
-### Prompt para Stitch
+Prompt Final para Stitch: Generación del Flujo de Reserva de Turista
+Contexto General y Sistema de Diseño:
 
-Te comparto el sistema de diseño para generar una aplicación móvil, de momento analiza la información y guardala en tu memoria para la construcción de las interfaces que te voy a solicitar: 
+Hola Stitch, soy el Product Designer de SubLegados Tours. A continuación, te proporciono las directrices completas para generar el flujo de usuario principal de nuestra aplicación móvil. El objetivo es crear una serie de pantallas cohesivas que guíen al turista desde el descubrimiento hasta la reserva de un tour.
 
----
+Analiza y aplica de manera estricta las siguientes reglas del SubLegados Design System (SDS) en todas las pantallas que generes:
 
-La información proporcionada es esencial para definir la arquitectura de diseño con precisión y cumplir con los requisitos de **alta fidelidad** y el **SubLegados Design System (SDS)**.
+Fidelidad y Tema: El prototipo debe ser de Alta Fidelidad y usar exclusivamente el Tema Oscuro (Dark Theme). El fondo principal será un gris oscuro azulado (ej. #12181B).
 
-Hemos confirmado tres puntos clave que ahora se integran en el *prompt* final:
+Logo: El Logo de SubLegados Tours debe ser prominente en el encabezado de las pantallas principales para reforzar la marca.
 
-1.  **Fidelidad y Tema:** Se prioriza un prototipo de **Alta Fidelidad** bajo el **Tema Oscuro**, que además de ser moderno, optimiza el consumo de energía.
-2.  [cite_start]**Logo:** El **Logo de SubLegados Tours** [cite: 27] [cite_start]debe ser prominente en el encabezado para fidelizar la marca y transmitir la promesa de una aventura auténtica[cite: 30, 42].
-3.  **Componente "Recordarme":** Para el futuro inicio de sesión de los guías, se utilizará un **Toggle Switch** (interruptor deslizante) posicionado debajo del campo de contraseña, alineado con las mejores prácticas de UI móvil.
+Paleta de Colores:
+
+Primario (Acciones): Turquesa vibrante (ej. #48D1CC) para botones y CTAs.
+
+Secundario (Acentos): Verde acuático (ej. #20B2AA).
+
+Terciario (Insignias/Tags): Tonos tierra/arena (ej. #F4A460).
+
+Texto: Blanco roto (ej. #F5F5F5) para máxima legibilidad.
+
+Tipografía:
+
+Encabezados: Fuente sans-serif con personalidad y peso (ej. Montserrat Bold).
+
+Cuerpo de Texto: Fuente sans-serif de alta legibilidad (ej. Lato Regular).
+
+Componentes: Las tarjetas, botones e inputs deben tener bordes ligeramente redondeados. El diseño se basa en tarjetas modulares para presentar la información.
+
+Iconografía: Estilo "line art" (contorno), con un trazo consistente y limpio.
+
+(Nota: He guardado en memoria la regla del Toggle Switch para el futuro diseño de la pantalla de inicio de sesión de guías).
+
+Lista de Pantallas a Generar (Flujo del Turista):
+
+Por favor, genera las siguientes 4 pantallas en secuencia:
+
+1. Pantalla de Inicio y Descubrimiento
+Esta es la primera impresión del usuario. Debe inspirar aventura y facilitar la búsqueda.
+
+Header: El Logo de SubLegados Tours a la izquierda y un ícono de perfil de usuario a la derecha.
+
+Bloque de Búsqueda: Un campo de búsqueda prominente con el texto "Busca un cenote, tour o guía...".
+
+Bloque de Categorías: Un carrusel horizontal de "chips" o tarjetas pequeñas con categorías como "Aventura", "Buceo", "Familias", "Relajación".
+
+Contenido Principal: Un listado vertical titulado "Tours Recomendados para Ti" compuesto por Tarjetas de Tour. Cada tarjeta debe mostrar una imagen atractiva, el nombre del tour, la calificación por estrellas y el precio.
+
+Barra de Navegación Inferior: Una barra fija con 4 íconos: "Inicio", "Buscar", "Mis Reservas" y "Perfil".
+
+2. Pantalla de Resultados de Búsqueda
+Esta pantalla presenta los resultados de una búsqueda de forma clara y escaneable.
+
+Header: Un ícono de "Atrás", el término de búsqueda (ej: "Cenotes cerca de Mérida"), y un ícono de "Filtro".
+
+Contenido Principal: Un listado vertical de Tarjetas de Guía. Cada tarjeta debe ser un resumen conciso que incluya: foto del guía, su nombre, calificación por estrellas, una especialidad clave (ej. "Experto en Buceo en Cueva") y un rango de precios. Al tocar una tarjeta se navega a la pantalla 3.
+
+3. Pantalla de Perfil de Guía
+El núcleo de la decisión del turista. Debe construir confianza y mostrar el valor único del guía.
+
+Header: Ícono de "Atrás", el Logo de SubLegados Tours y un ícono de "Compartir".
+
+Galería de Imágenes: Carrusel de imágenes del guía en acción.
+
+Bloque de Encabezado: Avatar del guía, Nombre, Eslogan y la insignia "Guía Verificado".
+
+Barra de Estadísticas: Íconos y texto para Calificación, Opiniones y Años de Experiencia.
+
+Sección "Sobre Mí": Título y texto con la biografía del guía (colapsable).
+
+Sección "Certificaciones": Título y una cuadrícula de insignias visuales.
+
+Sección "Mis Tours": Título y un carrusel horizontal de Tarjetas de Tour que ofrece este guía.
+
+Sección "Opiniones": Título, resumen de calificaciones y una lista de 2-3 tarjetas de reseñas.
+
+CTA Fijo: Un botón flotante o barra inferior fija con el texto "Ver Disponibilidad y Precios".
+
+4. Pantalla de Reserva
+Un flujo simple y sin fricción para confirmar la reserva después de elegir un tour desde el perfil del guía.
+
+Header: Ícono de "Atrás" y el título "Confirma tu Aventura".
+
+Bloque de Resumen: Una tarjeta superior que resume el tour seleccionado, el nombre del guía y la fecha.
+
+Selector de Personas: Un componente simple con botones "+" y "-" para elegir el número de asistentes.
+
+Bloque de Resumen de Pago: Un desglose claro del costo por persona y el total.
+
+CTA Principal: Un botón de acción primario con el texto "Pagar y Reservar".

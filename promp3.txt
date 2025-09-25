@@ -1,17 +1,22 @@
-### Prompt para obtener listado de pantallas
+¡Excelente! Vamos a construir el "Prompt 3" basándonos en la definición del MVP del prompt anterior. Este nuevo prompt se enfocará en traducir las funcionalidades que definimos en un flujo de usuario tangible a través de una secuencia de pantallas.
 
-Eres un **Product Designer experto** con amplia experiencia en el desarrollo de productos de software y una sólida formación en diseño UX/UI. Tu función es **diseñar una serie de pantallas** que faciliten `[la conexión directa entre guías turísticos locales y visitantes que buscan experiencias auténticas en los cenotes de Yucatán]` a través de un proceso bien estructurado.
+He seleccionado el proceso más crítico de la aplicación —el viaje del turista desde que busca un tour hasta que lo reserva— para modelar.
 
-Quiero crear una **interfaz de usuario integral para una aplicación móvil** destinada a `[servir como una plataforma donde los guías de cenotes pueden crear y mostrar sus perfiles de servicio, y los turistas pueden buscar, encontrar y contactar al guía ideal para su visita]`. La aplicación usará formularios de encuestas simples y debe ofrecer una experiencia fluida para los voluntarios.
+Aquí tienes el prompt completado:
 
-Quiero que generes una **lista secuencial de pantallas** que respalden los procesos principales descritos a continuación:
+Prompt para obtener listado de pantallas
+Eres un Product Designer experto con amplia experiencia en el desarrollo de productos de software y una sólida formación en diseño UX/UI. Tu función es diseñar una serie de pantallas que faciliten conectar a un turista con un guía local verificado para reservar una experiencia auténtica en un cenote de forma segura y sencilla a través de un proceso bien estructurado.
 
-`[**Proceso Principal: Búsqueda y Contacto de Guías (Flujo del Turista)**
+Quiero crear una interfaz de usuario integral para una aplicación móvil destinada a permitir que los turistas exploren, seleccionen y reserven tours a cenotes ofrecidos directamente por guías locales. La aplicación usará un flujo de reserva claro y visual, y debe ofrecer una experiencia fluida y de confianza para los turistas.
 
-* **Objetivo:** Permitir que los turistas encuentren y contacten al guía ideal para su visita a los cenotes de manera fácil, rápida y segura.
-* **Subprocesos:**
-* Búsqueda y filtrado de guías por lugar, fecha o tipo de tour.
-* Visualización del perfil detallado del guía (fotos, certificaciones, opiniones).
-* Contacto inicial con el guía para consultas y confirmación.]`
+Quiero que generes una lista secuencial de pantallas que respalden los procesos principales descritos a continuación:
 
-Quiero que crees una **lista detallada de pantallas** que respalden los objetivos y subprocesos anteriores, asegurando una experiencia **intuitiva y eficiente para los `[turistas]`**. Incluye las características y funcionalidades clave de cada pantalla, y garantiza que el diseño esté alineado con la meta general de `[facilitar la búsqueda y el contacto con guías locales para planificar una experiencia auténtica, segura y memorable en los cenotes]`.
+Proceso de Descubrimiento, Selección y Reserva de un Tour:
+
+1. Descubrimiento y Búsqueda: El turista explora los tours disponibles. El objetivo es que pueda encontrar experiencias relevantes a sus intereses (aventura, relajación, fotografía, etc.) y necesidades (fechas, número de personas).
+
+2. Evaluación de la Experiencia: Una vez que un tour llama su atención, el turista necesita evaluar si es la opción correcta. El objetivo es construir confianza y darle toda la información necesaria para tomar una decisión informada, destacando la autenticidad y la seguridad.
+
+3. Reserva y Confirmación: El turista ha decidido reservar. El objetivo es hacer que el proceso de selección de fecha, pago y confirmación sea lo más simple y transparente posible, eliminando cualquier fricción.
+
+Quiero que crees una lista detallada de pantallas que respalden los objetivos y subprocesos anteriores, asegurando una experiencia intuitiva y eficiente para los Turistas. Incluye las características y funcionalidades clave de cada pantalla, y garantiza que el diseño esté alineado con la meta general de facilitar la reserva de una experiencia única en un cenote, generando confianza y una conexión directa con el guía local.

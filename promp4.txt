@@ -1,23 +1,40 @@
-### Prompt para generar el sistema de diseño de una aplicación móvil
+¡Perfecto! Continuamos con el proceso. Ahora que tenemos una idea clara del flujo de pantallas, el siguiente paso lógico es definir el lenguaje visual y las reglas que darán vida a esas pantallas de manera coherente. Usaremos el "Prompt 3" como base para completar este "Prompt 4" y crear un sistema de diseño sólido para SubLegados Tours.
 
-Eres un diseñador UI/UX experto especializado en aplicaciones móviles, reconocido por crear interfaces audaces que priorizan la simplicidad y la coherencia, siempre con un enfoque **mobile-first**. Combinas habilidades técnicas, analíticas y creativas con un enfoque en el diseño centrado en el usuario y la colaboración interdisciplinaria. Tu rol como diseñador UX enfatiza la satisfacción y la efectividad del usuario al mejorar la usabilidad, la accesibilidad y el placer en la interacción con el producto. Como diseñador UI, te enfocas en crear interfaces visualmente atractivas, coherentes y fáciles de navegar.
+He adaptado y completado tu plantilla, aterrizando los conceptos avanzados (IA, inmersión) a funcionalidades prácticas y relevantes para la aplicación, y he tomado una decisión sobre el sistema de diseño base para dar una instrucción más clara.
 
-Quiero desarrollar un **sistema de diseño integral** para la aplicación móvil `SubLegados Tours`. Esta aplicación se caracteriza por una **profunda integración de tecnologías inmersivas, personalización avanzada mediante inteligencia artificial, y un enfoque en la experiencia del usuario, la accesibilidad y la sostenibilidad**. Las interfaces deben ser intuitivas, utilizando gestos y comandos de voz, mientras que el diseño debe enfatizar la funcionalidad, la velocidad y la eficiencia energética.
+Aquí tienes el prompt completado:
 
-Esto es lo que necesito: De acuerdo al `objetivo de conectar directamente a los guías turísticos locales de Yucatán con visitantes que buscan experiencias auténticas` se debe generar un sistema de diseño para incorporar un **diseño visual moderno y funcional**, caracterizado por maquetados minimalistas, un enfoque en la tipografía, microinteracciones sutiles, y el uso de gráficos 3D, ilustraciones llamativas y gradientes vibrantes para realzar la profundidad y el atractivo visual. Las paletas de color deben evocar emociones positivas y garantizar un contraste accesible. Además, el diseño debe priorizar la **accesibilidad y la sostenibilidad**, incluyendo comandos de voz, interfaces manos libres y contrastes de color que cumplan con los estándares de accesibilidad, mientras optimiza el consumo de energía mediante modo oscuro, carga eficiente y reducción de animaciones pesadas.
+Prompt para generar el sistema de diseño de una aplicación móvil
+Eres un diseñador UI/UX experto especializado en aplicaciones móviles, reconocido por crear interfaces audaces que priorizan la simplicidad y la coherencia, siempre con un enfoque mobile-first. Combinas habilidades técnicas, analíticas y creativas con un enfoque en el diseño centrado en el usuario y la colaboración interdisciplinaria. Tu rol como diseñador UX enfatiza la satisfacción y la efectividad del usuario al mejorar la usabilidad, la accesibilidad y el placer en la interacción con el producto. Como diseñador UI, te enfocas en crear interfaces visualmente atractivas, coherentes y fáciles de navegar.
 
-Quiero un entregable de sistema de diseño que pueda compartirse e interpretarse con herramientas de IA como Stitch, Figma Make o UX Pilot. Además, incluye un **design brief** (resumen de diseño) que sea comprensible para programadores. El entregable debe abarcar la paleta de colores, tipografía, iconografía y otros componentes esenciales. La base se fundamentará en el sistema de diseño `Material 3 Expressive de Google`.
+Quiero desarrollar un sistema de diseño integral para la aplicación móvil SubLegados Tours. Esta aplicación se caracteriza por el uso de elementos visuales inmersivos (video, fotografía de alta calidad) para transmitir la belleza de los cenotes, una futura personalización de recomendaciones mediante IA, y un enfoque total en la confianza del usuario, la accesibilidad y la sostenibilidad. Las interfaces deben ser intuitivas, con gestos fluidos y una futura integración de comandos de voz, mientras que el diseño debe enfatizar la funcionalidad, la velocidad y la eficiencia energética.
+
+Esto es lo que necesito: De acuerdo a nuestro objetivo de "conectar a un turista con un guía local verificado para reservar una experiencia auténtica en un cenote de forma segura y sencilla", se debe generar un sistema de diseño para incorporar un diseño visual moderno y funcional. Este se caracterizará por maquetados minimalistas, un enfoque en la tipografía legible, microinteracciones sutiles que guíen al usuario, y el uso de ilustraciones y gradientes vibrantes que evoquen la naturaleza, el agua cristalina y la cultura local para realzar la profundidad y el atractivo visual. Las paletas de color deben evocar emociones de aventura, confianza y tranquilidad, garantizando un contraste accesible. Además, el diseño debe priorizar la accesibilidad y la sostenibilidad, incluyendo una futura integración de comandos de voz, contrastes de color que cumplan con los estándares WCAG, y la optimización del consumo de energía mediante un modo oscuro y la carga eficiente de recursos visuales.
+
+Quiero un entregable de sistema de diseño que pueda compartirse e interpretarse con herramientas de IA como Figma. Además, incluye un design brief (resumen de diseño) que sea comprensible para programadores. El entregable debe abarcar la paleta de colores, tipografía, iconografía y otros componentes esenciales. La base se fundamentará en el sistema de diseño Material 3 de Google, por su flexibilidad, excelentes controles y documentación robusta para un desarrollo multiplataforma.
 
 Quiero que sigas estos pasos para crear el sistema de diseño:
 
-- Define la paleta de colores con códigos específicos y sus asociaciones emocionales.
-- Especifica las elecciones tipográficas, incluyendo estilos de fuente, tamaños y guías de uso.
-- Crea un set completo de iconografía alineado con el tema de la aplicación.
-- Desarrolla las especificaciones de componentes para los elementos clave de UI, como botones, campos de entrada y menús de navegación.
-- Define las características de accesibilidad, incluyendo opciones de comandos de voz y especificaciones de contraste de color.
-- Incluye pautas para integrar elementos de sostenibilidad dentro del diseño de la interfaz.
-- Prepara un **design brief** claro y conciso para desarrolladores, detallando consideraciones de implementación.
+Define la paleta de colores con códigos hexadecimales y sus asociaciones emocionales ligadas a los cenotes y la cultura maya (turquesas, verdes, tonos tierra, etc.).
+
+Especifica las elecciones tipográficas, incluyendo estilos de fuente (headings, body, captions), tamaños y guías de uso para garantizar legibilidad.
+
+Crea un set completo de iconografía con un estilo consistente (ej. line art, filled) que represente acciones y conceptos de la app (exploración, reserva, seguridad, perfil, etc.).
+
+Desarrolla las especificaciones de componentes para los elementos clave de UI, como botones (primario, secundario, ghost), campos de entrada, tarjetas de tour y menús de navegación.
+
+Define las características de accesibilidad, especificando los niveles de contraste de color y el tamaño mínimo de los elementos interactivos.
+
+Incluye pautas para integrar la sostenibilidad, principalmente a través de la especificación de la paleta de colores para el Modo Oscuro.
+
+Prepara un design brief claro y conciso para desarrolladores, detallando consideraciones de implementación (ej. uso de tokens de diseño, espaciado, breakpoints).
 
 Usa un tono claro y orientado a la acción para asegurar que todos los elementos estén alineados con la visión general de la aplicación y mejoren la experiencia del usuario.
 
-Para garantizar claridad y precisión en tu respuesta, por favor considera realizar preguntas que te ayuden a aclarar el objetivo de la investigación y espera mis respuestas para proceder con el análisis.
+Para garantizar claridad y precisión en tu respuesta, por favor considera realizar estas preguntas y espera mis respuestas para proceder con el análisis:
+
+Para asegurar que el sistema de diseño refleje la identidad correcta, ¿cómo describirías la personalidad de la marca SubLegados Tours en 3-5 adjetivos? (Ej: Aventurera, Confiable, Mística, Natural, Moderna).
+
+Pensando en nuestro turista ideal, ¿qué tipo de experiencia visual esperan? ¿Buscan algo más enfocado en la aventura y la adrenalina, o en la tranquilidad, la espiritualidad y la conexión con la naturaleza?
+
+Visualmente, ¿cómo queremos diferenciarnos de competidores más grandes como Airbnb Experiences o Viator? ¿Buscamos un look más premium y curado, o uno más orgánico y comunitario?
