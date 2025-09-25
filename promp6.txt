@@ -4,10 +4,10 @@ Te comparto el sistema de diseño para generar una aplicación móvil, de moment
 
 ---
 
-La información proporcionada es esencial para definir la arquitectura de diseño con precisión y cumplir con los requisitos de **alta fidelidad** [Query, 382] y el **Javerage Electoral Design System (JEDS)** [Query, 385, 491].
+La información proporcionada es esencial para definir la arquitectura de diseño con precisión y cumplir con los requisitos de **alta fidelidad** y el **SubLegados Design System (SDS)**.
 
-Hemos confirmado tres puntos clave que ahora se integran en el *prompt* final:
+Hemos confirmado tres puntos clave que ahora se integran en el *prompt* final:
 
-1. **Fidelidad y Tema:** Se prioriza un prototipo de **Alta Fidelidad** bajo el **Tema Oscuro** [Query].
-2. **Logo:** El **Logo de Javerage Electoral** debe ser prominente en el encabezado para fidelizar la marca [Query].
-3. **Componente "Recordarme":** Se utilizará un **Toggle Switch** (interruptor deslizante) [Query] posicionado debajo del campo de contraseña, alineado con las mejores prácticas de UI móvil.
+1.  **Fidelidad y Tema:** Se prioriza un prototipo de **Alta Fidelidad** bajo el **Tema Oscuro**, que además de ser moderno, optimiza el consumo de energía.
+2.  [cite_start]**Logo:** El **Logo de SubLegados Tours** [cite: 27] [cite_start]debe ser prominente en el encabezado para fidelizar la marca y transmitir la promesa de una aventura auténtica[cite: 30, 42].
+3.  **Componente "Recordarme":** Para el futuro inicio de sesión de los guías, se utilizará un **Toggle Switch** (interruptor deslizante) posicionado debajo del campo de contraseña, alineado con las mejores prácticas de UI móvil.

@@ -1,11 +1,17 @@
 ### Prompt para obtener listado de pantallas
 
-Eres un **Product Designer experto** con amplia experiencia en el desarrollo de productos de software y una sólida formación en diseño UX/UI. Tu función es **diseñar una serie de pantallas** que faciliten `[Objetivo_principal_del_proceso]` a través de un proceso bien estructurado.
+Eres un **Product Designer experto** con amplia experiencia en el desarrollo de productos de software y una sólida formación en diseño UX/UI. Tu función es **diseñar una serie de pantallas** que faciliten `[la conexión directa entre guías turísticos locales y visitantes que buscan experiencias auténticas en los cenotes de Yucatán]` a través de un proceso bien estructurado.
 
-Quiero crear una **interfaz de usuario integral para una aplicación móvil** destinada a `[Descripción_del_proceso]`. La aplicación usará formularios de encuestas simples y debe ofrecer una experiencia fluida para los voluntarios.
+Quiero crear una **interfaz de usuario integral para una aplicación móvil** destinada a `[servir como una plataforma donde los guías de cenotes pueden crear y mostrar sus perfiles de servicio, y los turistas pueden buscar, encontrar y contactar al guía ideal para su visita]`. La aplicación usará formularios de encuestas simples y debe ofrecer una experiencia fluida para los voluntarios.
 
-Quiero que generes una **lista secuencial de pantallas** que respalden los procesos principales descritos a continuación:
+Quiero que generes una **lista secuencial de pantallas** que respalden los procesos principales descritos a continuación:
 
-`[Proceso_seleccionadao_para_modelar]`
+`[**Proceso Principal: Búsqueda y Contacto de Guías (Flujo del Turista)**
 
-Quiero que crees una **lista detallada de pantallas** que respalden los objetivos y subprocesos anteriores, asegurando una experiencia **intuitiva y eficiente para los `[Tipo_de_usuario]`**. Incluye las características y funcionalidades clave de cada pantalla, y garantiza que el diseño esté alineado con la meta general de `[Objetivo_del_proceso_principal]`.
+* **Objetivo:** Permitir que los turistas encuentren y contacten al guía ideal para su visita a los cenotes de manera fácil, rápida y segura.
+* **Subprocesos:**
+* Búsqueda y filtrado de guías por lugar, fecha o tipo de tour.
+* Visualización del perfil detallado del guía (fotos, certificaciones, opiniones).
+* Contacto inicial con el guía para consultas y confirmación.]`
+
+Quiero que crees una **lista detallada de pantallas** que respalden los objetivos y subprocesos anteriores, asegurando una experiencia **intuitiva y eficiente para los `[turistas]`**. Incluye las características y funcionalidades clave de cada pantalla, y garantiza que el diseño esté alineado con la meta general de `[facilitar la búsqueda y el contacto con guías locales para planificar una experiencia auténtica, segura y memorable en los cenotes]`.
